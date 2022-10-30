@@ -1,4 +1,4 @@
-#Code written for IBM Call for code 2K22 (SwachBin)
+# SwachBin - Ultrasonic - IOT Module
 import time
 import paho.mqtt.client as mqtt
 import RPi.GPIO as GPIO
