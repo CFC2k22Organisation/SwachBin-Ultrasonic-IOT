@@ -1,1 +1,1 @@
-# SwatchBin-Ultrasonic-IOT
+# SwachBin-Ultrasonic-IOT
