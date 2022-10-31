@@ -1,5 +1,6 @@
 # SwachBin-Ultrasonic-IOT
 
+![Logo](./images/Ultrasonic-Sensor.jpg)
 
 Instructions:
 1.	Ensure the VNC option in your raspberrypi is turned ON.
